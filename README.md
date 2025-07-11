@@ -1,2 +1,1 @@
-# SCT-Internship-
-SCT_TrackCode_TaskNumber1
+SCT_DS_internship_task1
